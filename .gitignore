@@ -1,4 +1,9 @@
 
+node_modules
+
 /nonce.csv
 /nonce.png
+
+/nonce_eth.csv
+/nonce_eth.png
 
